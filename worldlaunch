@@ -1,0 +1,2 @@
+<arg name="gazebo_world" default="$"/>
+	<arg name="gazebo_gui" default="true"/>
