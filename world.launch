@@ -1,2 +1,0 @@
-<arg name="gazebo_world" default="$/pilotfactory.world"/>
-	<arg name="gazebo_gui" default="true"/>
